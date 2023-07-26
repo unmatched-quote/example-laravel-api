@@ -1,0 +1,7 @@
+*
+!public/
+!apollo-graphql
+!apollo-graphql/**
+!swagger
+!swagger/**
+!.gitignore
